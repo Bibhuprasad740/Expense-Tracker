@@ -39,7 +39,7 @@ const DUMMY_EXPENSES = [
     id: 6,
     title: "Cooler",
     amount: 1200,
-    date: new Date(2022, 3, 16),
+    date: new Date(2022, 3, 29),
   },
   {
     id: 7,
